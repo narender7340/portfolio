@@ -1,4 +1,3 @@
-$mainColor: #15023a;
 
 $width: 768px;
 
@@ -7,3 +6,13 @@ $width: 768px;
         @content
     }
 }
+.light-theme {
+    --main-Color: #15023a;
+    --bg-color: #ffffff;
+
+}
+.dark-theme{
+    --main-Color: #6d25df;
+    --bg-color: #0e0c11;
+}
+$mainColor: var(--main-Color);

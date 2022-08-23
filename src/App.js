@@ -7,7 +7,7 @@ import Works from "./components/works/Works"
 import "./app.scss"
 import { useState } from "react";
 import Menu from "./components/menu/Menu";
-
+// import Toggle from "./Toggle";
 
 function App() {
   const [menuOpen,setMenuopen] = useState(false)
@@ -21,6 +21,7 @@ function App() {
       <Works/>
       <Testimonials/>
       <Contact/>
+      {/* <Toggle/> */}
     </div>
     </div>
   );
