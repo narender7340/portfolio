@@ -1,12 +1,20 @@
 @import "../../global.scss";
 
 .works {
-  background-color: crimson;
+  background-color: rgba(46, 60, 63, 0.748);
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
-
+  .head{
+    justify-content: flex-start;
+    h1 {
+    font-size: 50px;
+    @include mobile{
+      font-size: 20px;
+    }
+  }
+  } 
   .arrow {
     height: 50px;
     position: absolute;

@@ -16,11 +16,11 @@ export default function Topbar({ menuOpen, setMenuOpen }) {
       <div className="wrapper">
         <div className="left">
           <a href="#intro" className="logo">
-            OOOO.
+            NARVI
           </a>
           <div className="itemContainer" id="itemContainer1">
             <Person className="icon" />
-            <span>+91 7340****95</span>
+            <span>+91 7340417895</span>
           </div>
           <div className="itemContainer" id="itemContainer1">
             <Mail className="icon" />
