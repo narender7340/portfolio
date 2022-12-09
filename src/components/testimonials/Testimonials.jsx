@@ -15,7 +15,7 @@ export default function Testimonials() {
     {
       id: 2,
       name: "**** ******",
-      title: "------,
+      title: "------",
 //       img:
 //         "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
 //       icon: "assets/youtube.png",
