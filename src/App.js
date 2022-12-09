@@ -1,7 +1,7 @@
 import Contact from "./components/contact/Contact";
 import Intro from "./components/intro/Intro"
 import Project from "./components/project/Project"
-import Testimonials from "./components/testimonials/Testimonials"
+// import Testimonials from "./components/testimonials/Testimonials"
 import Topbar from "./components/topbar/Topbar"
 import Works from "./components/works/Works"
 import "./app.scss"
