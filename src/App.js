@@ -19,7 +19,6 @@ function App() {
       <Intro/>
       <Project/>
       <Works/>
-//       <Testimonials/>
       <Contact/>
       {/* <Toggle/> */}
     </div>
